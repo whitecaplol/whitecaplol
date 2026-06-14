@@ -2,7 +2,7 @@
 I put the Geometry in Geometry Dash
 
 More specifically, I do Desmos stuff and tie it into other niches, primarily Geometry Dash at the moment.
-- Up to 120 fps real-time high-fidelity audio playback on an iPad Pro (~650,000 notes with ~128 max polyphony)
+- 60+ fps real-time high-fidelity audio playback on an iPad Pro (~1,600,000 notes with ~192 average polyphony)
 - Math Art
 
 This work primarily goes onto [YouTube](https://www.youtube.com/@whitecaplol).

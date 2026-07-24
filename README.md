@@ -3,11 +3,11 @@ I put the Geometry in Geometry Dash
 
 More specifically, I do Desmos stuff and tie it into other niches, primarily Geometry Dash at the moment.
 - 60+ fps real-time high-fidelity audio playback on an iPad Pro (~1,600,000 notes with ~192 average polyphony)
-- Math Art
+- Math Art (software + recreations)
 
 This work primarily goes onto [YouTube](https://www.youtube.com/@whitecaplol).
 
-In addition, I soon plan to release Computer Science related videos.
+In addition, I soon plan to release Math/Computer Science related videos.
 
 # Remarks
 This account is primarily for associated code snippets/codebases related to these.

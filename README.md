@@ -1,26 +1,23 @@
 # About
 I put the Geometry in Geometry Dash
 
-More specifically, I do Desmos stuff and tie it into other niches, primarily Geometry Dash at the moment.
-- 60+ fps real-time high-fidelity audio playback on an iPad Pro (~1,600,000 notes with ~192 average polyphony)
+More specifically, I work on stuff related to Desmos and Geometry Dash.
+- Generalized high-quality audio playback in Desmos
+- Polygon-based Desmos videos (source code not available yet)
 - Math Art (software + recreations)
+- Antigravity (upcoming Geode Mod)
 
 This work primarily goes onto [YouTube](https://www.youtube.com/@whitecaplol).
 
 In addition, I soon plan to release Math/Computer Science related videos.
-
-# Remarks
-This account is primarily for associated code snippets/codebases related to these.
-
-I do not plan on accepting PRs at the moment.
 
 # FAQs
 (More to come)
 
 ## So where is the code for [x]?
 Currently, I plan on keeping [x] proprietary or local for a few reasons.
-1. It's not good enough
-2. It's so dang good that it deserves to be showcased first
+1. It's not ready yet
+2. I don't give free handouts
 3. As the adage goes, a magician never* reveals his secrets
 
 That being said, [x] will eventually be open-sourced, either via the MIT license or the Apache 2.0 License.
